@@ -1,0 +1,50 @@
+Dragon Slayer
+50
+60
+10
+100
+Wooden Sword
+5
+10
+5
+0
+Divine
+80
+90
+60
+300
+Metal Sword
+10
+25
+10
+20
+Shiny Blade
+35
+45
+20
+40
+Katana
+65
+80
+80
+70
+Ravensword
+60
+75
+30
+100
+Dark Sword
+40
+60
+20
+80
+Time Blade
+75
+85
+30
+250
+Dual Blades
+40
+60
+40
+150

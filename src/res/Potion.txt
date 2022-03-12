@@ -1,0 +1,25 @@
+HP Potion
+HP
+Recover 10 HP when use
+10
+10
+Super Potion
+HP
+Recover 30 HP when use
+30
+20
+Advanced Potion
+HP
+Recover 50 HP when use
+50
+40
+Full Potion
+HP
+Recover HP fully when use
+1000
+70
+Fortune Potion
+Crit
+Increase critical chance by double
+2
+50

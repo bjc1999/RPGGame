@@ -1,0 +1,9 @@
+Welcome to Swords Of Fortune!
+This is a simple tutorial.
+Press W, A, S, D to move up, left, down and right.
+Click the choice box to check your details.
+
+ appeared on the 
+Battle Start!
+Round 
+What you want to do?
